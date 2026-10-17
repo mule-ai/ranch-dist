@@ -1,0 +1,8 @@
+{
+  "version": "main-ed94f33b92e0bf7a8ff4d9cc2311b0091295913b",
+  "built": "2026-10-17T14:39:06Z",
+  "apk": "ranch.apk",
+  "linux": "ranch-linux-x86_64.tar.gz",
+  "sha256_apk": "bc98114c8d1514cdab4582a47e3b4e186d9ca71af97fc225d35f72aef485c185",
+  "sha256_linux": "576b9058d287db22cee3ec8622ffabd16884aed86cc5204eae86011c04077120"
+}
